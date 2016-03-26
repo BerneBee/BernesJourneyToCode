@@ -1,2 +1,2 @@
-Journey to Code
-Follow me on my journey while learning to code and buld websites.
+<h1> Jorney To Code</h1>
+<p>Follow me on my journey as I learn to code with Hands Up United Tech Program</p>
