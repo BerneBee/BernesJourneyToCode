@@ -1,2 +1,2 @@
-# The-Lion-and-the-Owl-
-Site all about how my children look like these animals...
+Journey to Code
+Follow me on my journey while learning to code and buld websites.
