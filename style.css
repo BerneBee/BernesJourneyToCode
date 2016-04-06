@@ -1,10 +1,11 @@
 #main {
   background-color:maroon;
   color:white;
+  border:4px dash black;
   }
 
 .intro{
-  color:yellow;
+  color:black;
 }
  div{
    background-color: blue;
