@@ -72,6 +72,11 @@ body {
  .Disclaimer {
   border: solid 1px;
   float: left;
-  text:serif;
+  font-family:sans-serif;
 }
 
+.How I...{
+ border:solid 1px;
+ float:right;
+ font-family:sans-serif;
+}
