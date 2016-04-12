@@ -73,10 +73,12 @@ body {
   border: solid 1px;
   float: left;
   font-family:sans-serif;
+  font-size:75%;
 }
 
 .HowI {
  border:solid 1px;
  float:right;
  font-family:sans-serif;
+ font-size:75%;
 }
