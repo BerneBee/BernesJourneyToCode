@@ -69,7 +69,7 @@ body {
   */
 }
 
- div .Disclaimer {
+ .Disclaimer {
   border: solid 1px;
   float: left;
   text:serif;
