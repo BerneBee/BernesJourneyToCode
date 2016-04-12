@@ -71,7 +71,7 @@ body {
 
  .Disclaimer {
   border: solid 1px;
-  float: left;
+  float:left;
   font-family:sans-serif;
   font-size:75%;
 }
